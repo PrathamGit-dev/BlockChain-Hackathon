@@ -1,4 +1,4 @@
-Checkout the webapp at - https://fest-token-app-prometeo.netlify.app/
+Checkout the webapp at - https://fest-token-app-prometeo.netlify.app
 Video demonstration at - https://youtu.be/AssSGAcXJAU
 
 Steps to implement
